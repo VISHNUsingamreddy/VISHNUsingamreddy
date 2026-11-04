@@ -1,7 +1,8 @@
 <h1 align="center">Singamreddy Vishnu</h1>
-<h3 align="center">Aspiring Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer | React Enthusiast</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Enthusiast;Full+Stack+Learner;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+Developer;Full+Stack+Learner;Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
