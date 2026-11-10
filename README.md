@@ -68,8 +68,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VISHNUsingamreddy&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHNUsingamreddy&layout=compact&hide_border=true" alt="Top Languages" />
+  <img width="49%" src="./profile/stats.svg" alt="GitHub profile statistics for Vishnu Singamreddy" />
+  <img width="49%" src="./profile/top-langs.svg" alt="Most-used programming languages on GitHub" />
 </p>
 
 <p align="center">
